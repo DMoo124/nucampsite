@@ -1,6 +1,6 @@
 import { ScrollView, Text } from "react-native";
 import { Card, ListItem, Avatar } from "react-native-elements";
-import { useSelector } from ' react-redux';
+import { useSelector } from 'react-redux';
 import { baseUrl } from '../shared/baseUrl';
 import Loading from "../components/LoadingComponent";
 
